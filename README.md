@@ -9,3 +9,5 @@ Este es un bloc de notas creado con tkinter  y python
 ![image](https://github.com/user-attachments/assets/e5d95f84-3ac6-49c5-aece-d6f3a376353e)
 
 ![image](https://github.com/user-attachments/assets/bc7864bf-a95f-485d-a655-3aebbe5b92dd)
+
+![image](https://github.com/user-attachments/assets/281e3f9f-f1fa-4d39-9806-6541dc527977)
